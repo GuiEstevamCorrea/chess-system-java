@@ -1,5 +1,4 @@
-package application;
-
+import application.UI;
 import chess.ChessException;
 import chess.ChessMatch;
 import chess.ChessPiece;
